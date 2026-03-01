@@ -1,3 +1,13 @@
+# MarriageSaga
+
+Marriage Saga® is one of the largest online matchmaking platforms, founded with one simple objective - to provide a superior matchmaking experience to users all over the world.
+
+![macOS Portfolio](./public/image.png)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+
+
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Production-Live-brightgreen?style=for-the-badge&logo=checkmarx" />
@@ -7,7 +17,6 @@
 <img src="https://img.shields.io/badge/Socket.IO-4.x-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-# 💍 MarriageSaga — Matrimonial Platform Backend
 
 ### A production-grade REST API & real-time backend powering a full matrimonial application
 
